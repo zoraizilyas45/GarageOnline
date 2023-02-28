@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "463667678437",
+    "project_id": "arslan-367fa",
+    "storage_bucket": "arslan-367fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463667678437:android:91a5b1268141815ac5d80c",
+        "android_client_info": {
+          "package_name": "com.arslan_a"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463667678437-sp0kr77gvdfv69fiue00b950e0rc4ph4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arslan_a",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "463667678437-c9qgat7gdbnd17ldjhul99etdhsstq6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO7RxlSd1isibicDSBdSilZz-r8GqC2yE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463667678437-c9qgat7gdbnd17ldjhul99etdhsstq6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
