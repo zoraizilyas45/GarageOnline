@@ -61,7 +61,7 @@ const Shoper = ({ navigation }) => {
                     </Text>
                 </TouchableOpacity>
                 <Text style={{ alignContent: 'center', fontSize: 20, fontWeight: 'bold', marginLeft: 50, borderColor: '#FFA500', marginTop: -25, }}>
-                    Hello,This is Shopkeeper's Dashboard
+                    Hello!This is Shopkeeper's Dashboard
                 </Text>
 
             </View>
