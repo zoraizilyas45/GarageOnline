@@ -60,7 +60,7 @@ const Shoper = ({ navigation }) => {
                         <Icon name='settings' size={30} style={{ color: '#FFA500', margin: 15, marginLeft: 5, }} />
                     </Text>
                 </TouchableOpacity>
-                <Text style={{ alignContent: 'center', fontSize: 20, fontWeight: 'bold', marginLeft: 50, borderColor: '#FFA500', marginTop: -25, }}>
+                <Text style={{ alignContent: 'center', fontSize: 20, fontWeight: 'bold', marginLeft: 50, marginTop: -25, }}>
                     Hello,This is Shopkeeper's Dashboard!
                 </Text>
 
